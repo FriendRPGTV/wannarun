@@ -1,1 +1,1 @@
-worker: node chat-server.js
+worker: node index.js
